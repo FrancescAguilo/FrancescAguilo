@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Just testing this feature ^^
-
+Currently working on my public profile, more things soon.
 
 <!--
 **FrancescAguilo/FrancescAguilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
